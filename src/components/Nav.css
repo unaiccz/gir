@@ -1,0 +1,27 @@
+.item{
+margin-left: 50%;
+margin-top: 10px;
+width: 100px;
+height: 50px;
+border-radius: 10px;
+padding: 10px;
+transition: all 0.5s ease-in-out;
+}
+.item:hover{
+background-color: #e6e6e6;
+transform: rotate(360deg);
+cursor: pointer;
+margin-bottom: 25px;
+}
+.menu{
+margin-left: 50%;
+margin-top: 10px;
+transition: all 0.5s ease-in-out;
+.li{
+list-style: none;
+text-decoration: none;
+color: black;
+}
+}
+
+
